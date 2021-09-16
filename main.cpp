@@ -1,5 +1,8 @@
 /******************************************************************************
 FARAH NORIFFAT - 2301931970
+
+perlu dinote bahwa cin hanya menerima 1 kata dan lainnya diabaikan, jadi saya
+anjurkan untuk menggunakan kata atomic
 *******************************************************************************/
 
 #include <iostream>
